@@ -8,9 +8,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>twitter</groupId>
+      <groupId>com.cyousdk.twitter.sdk</groupId>
       <artifactId>twitter-core</artifactId>
-      <version>3.4.1</version>
+      <version>3.4.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

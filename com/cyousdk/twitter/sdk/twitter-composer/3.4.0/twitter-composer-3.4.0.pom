@@ -8,6 +8,12 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
+      <groupId>com.cyousdk.twitter.sdk</groupId>
+      <artifactId>twitter-core</artifactId>
+      <version>3.4.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.squareup.picasso</groupId>
       <artifactId>picasso</artifactId>
       <version>2.5.2</version>
